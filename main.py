@@ -5,7 +5,7 @@ from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("8623557436:AAFxg39EBNN1i0MTWjhw86ClmjArlo0c8gY")
 
 FILE = "data.json"
 
